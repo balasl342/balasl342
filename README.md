@@ -27,6 +27,21 @@ I am a **Backend Developer** with **7+ years** of experience in building robust,
 
 ---
 
+## 🚀 Featured Projects
+
+### [**Microservices-Based HRMS Solution**]
+Worked on a highly scalable **HRMS solution** that includes employee management, payroll management, and leave tracking. Built with **Golang** and **Vue js** in microservice architecture for efficient service communication, the solution helps large organizations manage their HR operations seamlessly.
+
+### [**Gift Card Solution**]
+Worked on a **Gift Card Solution** that allows businesses to issue and manage gift cards. The solution was built using **Golang**, implementing **microservices** to handle gift card issuance, redemption, and balance tracking. The system was designed to be scalable, reliable, and secure, with integration into existing e-commerce platforms.
+
+### [**Payment Gateway Wrapper**]
+Implemented a **Payment Gateway Wrapper** integrating multiple payment gateways into a single API. Developed with **Golang**, this solution offers seamless transaction processing with various payment providers, enhancing flexibility and ease of integration for businesses.
+
+ and many more...
+
+---
+
 ## 🧰 Technologies & 🛠️ Tools
 - **Languages**: Golang, ColdFusion (CFML), JavaScript, TypeScript
 - **Frameworks**: Gin, Echo, MUX, Angular
