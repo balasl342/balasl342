@@ -39,4 +39,10 @@ I am a **Backend Developer** with **7+ years** of experience in building robust,
 
 ---
 
+## 💼 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/golang-bala)  
+
+---
+
 Thank you for visiting my profile! Feel free to explore my repositories or connect with me for collaboration or any exciting projects! 😊
