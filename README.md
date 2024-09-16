@@ -46,7 +46,7 @@ Implemented a **Payment Gateway Wrapper** integrating multiple payment gateways 
 - **Languages**: Golang, ColdFusion (CFML), JavaScript, TypeScript
 - **Frameworks**: Gin, Echo, MUX, Angular
 - **APIs**: GRPC, RESTful APIs
-- **Version Control**: Git, SVN
+- **Version Control**: Git, Sourcetree
 - **Containerization & Orchestration**: Docker, Kubernetes
 - **Database**: PostgreSQL, MySQL
 - **Cloud Platforms**: AWS
