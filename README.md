@@ -48,7 +48,7 @@ Implemented a **Payment Gateway Wrapper** integrating multiple payment gateways 
 - **APIs**: GRPC, RESTful APIs
 - **Version Control**: Git, Sourcetree
 - **Containerization & Orchestration**: Docker, Kubernetes
-- **Database**: PostgreSQL, MySQL
+- **Database**: PostgreSQL, MSSQL, MySQL, MongoDB
 - **Cloud Platforms**: AWS
 - **Other**: Bootstrap, Agile Methodologies, CI/CD, Unit Testing
 
