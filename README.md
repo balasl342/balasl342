@@ -1,5 +1,5 @@
 # Hi there, I'm Bala C! 👋
-💻 Backend Developer | ⚙️ Software Engineer | 🚀 Problem Solver
+💻 Backend Developer | 🐹 Golang | ⚙️ Software Engineer | 🚀 Problem Solver
 
 ## About Me
 I am a **Backend Developer** with **7+ years** of experience in building robust, efficient, and scalable backend systems. My primary focus has been on **Golang** and microservices architecture, with a strong grasp of **GRPC**, **RESTful APIs**, and several backend frameworks like **Gin** and **MUX**. I am passionate about optimizing performance and writing maintainable code, continuously learning and adapting to new technologies to enhance my skill set.
